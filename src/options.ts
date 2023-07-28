@@ -119,6 +119,11 @@ const NitroDefaults: NitroConfig = {
   nodeModulesDirs: [],
   hooks: {},
   commands: {},
+
+  // Presets
+  firebase: {
+    gen: 2,
+  },
 };
 
 export interface LoadConfigOptions {
