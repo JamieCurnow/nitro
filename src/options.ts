@@ -122,7 +122,7 @@ const NitroDefaults: NitroConfig = {
 
   // Presets
   firebase: {
-    gen: 2,
+    gen: 1,
   },
 };
 
